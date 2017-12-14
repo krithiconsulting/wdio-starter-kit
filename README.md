@@ -1,12 +1,15 @@
 # README
 
 ## setup 
-* installs the following 
 
-webdriver.io : functional test utility and 
-mocha : javascript based test framework
-
-## installation
+### install selenium 
+     
+	npm i -g selenium-standalone 
+    selenium-standalone install
+    selenium-standalone start
+	 
+### install webdriver and mocha 
+	
 	git clone https://github.com/krithiconsulting/wdio-starter-kit.git
 	npm install 
 
