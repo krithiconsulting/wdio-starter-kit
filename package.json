@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "wdio wdio.mocha.conf.js",
-    "test1": "mocha"
+    "test": "wdio wdio.mocha.conf.js"
   },
   "keywords": [],
   "author": "",
